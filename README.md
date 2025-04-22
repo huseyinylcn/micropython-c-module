@@ -1,6 +1,6 @@
 # micropython-c-module
 
-macım, MicroPython içerisinde kendi yazdığımız C modüllerini kullanmak. depo içerindeki kodda, basit bir toplama işlemi yapan bir C modülü yer alıyor ve bu modülü MicroPython içinden başarıyla kullanabiliyorum.
+Amacım, MicroPython içerisinde kendi yazdığımız C modüllerini kullanmak. depo içerindeki kodda, basit bir toplama işlemi yapan bir C modülü yer alıyor ve bu modülü MicroPython içinden başarıyla kullanabiliyorum.
 
 Asıl hedefimiz, projemizde ihtiyaç duyulan bazı modülleri — örneğin bir kuyruk (queue) oluşturma kütüphanesini — C diliyle yazarak MicroPython içerisinde kullanmak.
 
